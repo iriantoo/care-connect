@@ -1,0 +1,14 @@
+.bg-pink-subtle{
+    background-color: #fef1f7;
+}
+
+.bg-pink-dark{
+    background-color: #55021d;
+}
+
+.btn.btn-dark{
+    --bs-btn-bg: #f73d8b;
+    --bs-btn-hover-bg: #8a1139;
+    --bs-btn-border-color: #f73d8b;
+    --bs-btn-hover-border-color: #8a1139;
+}
